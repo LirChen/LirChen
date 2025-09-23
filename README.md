@@ -84,7 +84,7 @@ Active Directory · DNS · VPN · SAP ERP
 ---
 
 ### 🔹 Cost Manager - RESTful Web Services
-**🌐 [Live Demo](https://final-project-server-side-h0n0.onrender.com)** - Complete expense management system with professional backend architecture
+📽️ **[YouTube Demo](https://www.youtube.com/watch?v=QDyM50J_zkc)** | 🌐 **[Live API](https://final-project-server-side-h0n0.onrender.com)** - Complete expense management system with professional backend architecture
 - **RESTful API** with comprehensive CRUD operations and automated testing
 - **MongoDB Atlas** integration with Mongoose ODM and optimized schemas
 - **Computed Pattern** implementation for cached monthly reports
