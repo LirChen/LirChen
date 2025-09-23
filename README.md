@@ -55,7 +55,23 @@ Active Directory · DNS · VPN · SAP ERP
 ## 🚀 Featured Projects
 
 ### 🔹 DevOps Infrastructure Project
-🌐 **[Live Status Page](https://ly-statuspage.click)** - Enterprise-grade cloud infrastructure with comprehensive monitoring
+📽️ **[LinkedIn Demo](https://lnkd.in/p/gEsx_zqx)** - Enterprise-grade cloud infrastructure with comprehensive monitoring
+
+![AWS Infrastructure Architecture](./images/finalprojectDevOps.drawio%20(1).drawio%20(1).png)
+*Complete AWS infrastructure with EKS, RDS, and ElastiCache Redis*
+
+![ArgoCD GitOps](./images/argocd.png)
+*GitOps deployment with ArgoCD automated sync and rollback*
+
+![Grafana Monitoring](./images/grafana.png)
+*Real-time cluster monitoring with Grafana dashboards*
+
+![Status Page Components](./images/statuspage-components.png)
+*Public status page monitoring all infrastructure components*
+
+![Status Page UI](./images/statuspage-ui.png)
+*Live infrastructure status monitoring interface*
+
 - **Production-Ready AWS Infrastructure** with EKS cluster, PostgreSQL RDS, ElastiCache Redis
 - **Multi-Worker Node Setup** with proper resource allocation and auto-scaling
 - **GitOps Deployment** using ArgoCD with automated sync and rollback capabilities
