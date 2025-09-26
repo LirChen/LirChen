@@ -1,6 +1,6 @@
 # Hi there, I'm Lir Chen! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=false&vCenter=true&multiline=true&width=1100&height=80&lines=DevOps+Engineer+%26+Software+Developer;IDF+Alumni+%7C+Computer+Science+Graduate+%7C+DevOps+Trained)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=false&vCenter=true&multiline=true&width=1100&height=80&lines=DevOps+Engineer+%26+Software+Developer;DevOps+Trained+%7C+Computer+Science+Graduate+%7C+IDF+Alumni)](https://git.io/typing-svg)
 
 ---
 
@@ -133,6 +133,12 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 ### 🔹 Full-Stack Authentication App with Event Streaming
 Enterprise-grade authentication system with real-time data processing and monitoring
 
+![Authentication Dashboard](./images/auth-dashboard.png)
+*User management dashboard with real-time profile information and system analytics*
+
+![Login Interface](./images/auth-login.png)
+*Clean, modern login interface with secure authentication flow*
+
 **Key Features:**
 - **Microservices Architecture** with React frontend, Node.js API, and Kafka consumer
 - **Distributed Database** using TiDB with TiCDC for change data capture
@@ -148,6 +154,9 @@ Enterprise-grade authentication system with real-time data processing and monito
 
 ### 🔹 AWS Resource Manager - CLI & GUI Tool
 Comprehensive AWS management tool with both command-line and graphical interfaces
+
+![AWS Resource Manager GUI](./images/aws-resource-manager-gui.png)
+*Professional GUI interface for AWS resource management with EC2, S3, and Route53 support*
 
 **Key Features:**
 - **Python CLI** using boto3 for AWS resource provisioning (EC2, S3, Route53)
