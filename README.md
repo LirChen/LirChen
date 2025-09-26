@@ -1,6 +1,6 @@
 # Hi there, I'm Lir Chen! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=false&vCenter=true&multiline=true&width=1100&height=80&lines=DevOps+Engineer+%26+Software+Developer;IDF+Alumni+%7C+Computer+Science+Graduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=false&vCenter=true&multiline=true&width=1100&height=80&lines=DevOps+Engineer+%26+Software+Developer;IDF+Alumni+%7C+Computer+Science+Graduate+%7C+DevOps+Trained)](https://git.io/typing-svg)
 
 ---
 
