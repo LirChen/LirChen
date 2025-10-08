@@ -16,7 +16,8 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 - 💻 **Expertise:** AWS, Kubernetes, Docker, Terraform, Linux, React Native, Node.js, Python, DevOps, Microservices
 
 **🎯 Currently seeking:** DevOps Engineer or Software Developer role  
-**🌱 Learning:** Advanced Kubernetes, Terraform, and Cloud Architecture
+**🌱 Learning:** Advanced Kubernetes, Terraform, and Cloud Architecture  
+**🌐 Portfolio:** [lirchen.github.io](https://lirchen.github.io)
 
 ---
 
@@ -97,19 +98,42 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 
 ---
 
-### 🔹 Cost Manager - RESTful Web Services
-📽️ **[YouTube Demo](https://www.youtube.com/watch?v=QDyM50J_zkc)** | 🌐 **[Live API](https://final-project-server-side-h0n0.onrender.com)** - Complete expense management system with professional backend architecture
+### 🔹 FitFlow - Comprehensive Fitness Tracker
+🎬 **Demo Video Coming Soon!** - Full-stack fitness tracking platform with AI-powered coach
+
+![FitFlow Home Screen](./images/home_screen_2.png)
+*Modern fitness dashboard with real-time metrics*
+
+![Analytics Dashboard](./images/analytics_tab.png)
+*Interactive analytics with workout frequency and nutrition insights*
+
+![Workout Tracking](./images/workout_tab.png)
+*Comprehensive workout logging with duration and difficulty tracking*
+
+![Nutrition Monitoring](./images/nutrition_tab.png)
+*Daily meal tracking with complete macronutrient breakdown*
+
+![AI Fitness Coach](./images/AI_coach_tab.png)
+*24/7 AI-powered fitness coach for personalized advice*
+
+![Progress Gallery](./images/progress_gallery_tab.png)
+*Visual progress tracking with transformation photos*
 
 **Key Features:**
-- **RESTful API** with comprehensive CRUD operations and automated testing
-- **MongoDB Atlas** integration with Mongoose ODM and optimized schemas
-- **Computed Pattern** implementation for cached monthly reports
-- **Professional Logging** with Pino and comprehensive test coverage with Jest
-- **Production Deployment** on Render with health monitoring
+- **Dashboard Overview** - Real-time fitness summary with weekly workouts, daily calories, BMI, and active streak
+- **Workout Tracking** - Log exercises with duration, difficulty, and comprehensive history
+- **Nutrition Tracker** - Track meals by type with complete macros breakdown (protein, carbs, fats)
+- **Progress Gallery** - Upload and visualize transformation photos over time
+- **Goals Management** - Set measurable fitness milestones with visual progress bars
+- **Analytics & Stats** - 4 interactive charts (workout frequency, calorie intake, macros, duration trends)
+- **BMR/TDEE Calculator** - Calculate daily calorie needs based on personal metrics
+- **Nutrition Trivia** - Interactive quiz game to test nutrition knowledge
+- **AI Fitness Coach** - Personalized advice powered by Mistral AI
+- **Comprehensive Testing** - 100+ tests with Jest covering all API endpoints
 
-**Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `Jest` `Pino` `Supertest`
+**Tech Stack:** `React 18` `Node.js` `Express` `MongoDB` `Docker` `Mistral AI` `Recharts` `Jest` `Nginx`
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/Node.js_RESTful_API)
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/FitFlow)
 
 ---
 
@@ -127,6 +151,22 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 **Tech Stack:** `React Native` `Node.js` `Express` `Socket.IO` `MongoDB` `JWT` `Expo`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/Flavor_World_Final_Project)
+
+---
+
+### 🔹 Cost Manager - RESTful Web Services
+📽️ **[YouTube Demo](https://www.youtube.com/watch?v=QDyM50J_zkc)** | 🌐 **[Live API](https://final-project-server-side-h0n0.onrender.com)** - Complete expense management system with professional backend architecture
+
+**Key Features:**
+- **RESTful API** with comprehensive CRUD operations and automated testing
+- **MongoDB Atlas** integration with Mongoose ODM and optimized schemas
+- **Computed Pattern** implementation for cached monthly reports
+- **Professional Logging** with Pino and comprehensive test coverage with Jest
+- **Production Deployment** on Render with health monitoring
+
+**Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `Jest` `Pino` `Supertest`
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/Node.js_RESTful_API)
 
 ---
 
@@ -182,10 +222,11 @@ Comprehensive AWS management tool with both command-line and graphical interface
 ## 📌 Pinned Repositories
 
 [![DevOps Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=DevOps_Infrastructure_Project&theme=tokyonight)](https://github.com/LirChen/DevOps_Infrastructure_Project)
-[![Cost Manager API](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=Node.js_RESTful_API&theme=tokyonight)](https://github.com/LirChen/Node.js_RESTful_API)
+[![FitFlow](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=FitFlow&theme=tokyonight)](https://github.com/LirChen/FitFlow)
 [![FlavorWorld App](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=Flavor_World_Final_Project&theme=tokyonight)](https://github.com/LirChen/Flavor_World_Final_Project)
-[![AWS CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=AWS_Resource_manager_cli_and_ui&theme=tokyonight)](https://github.com/LirChen/AWS_Resource_manager_cli_and_ui)
+[![Cost Manager API](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=Node.js_RESTful_API&theme=tokyonight)](https://github.com/LirChen/Node.js_RESTful_API)
 [![Full-Stack Auth](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=fullstack_auth_app&theme=tokyonight)](https://github.com/LirChen/fullstack_auth_app)
+[![AWS CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=AWS_Resource_manager_cli_and_ui&theme=tokyonight)](https://github.com/LirChen/AWS_Resource_manager_cli_and_ui)
 
 ---
 
@@ -227,6 +268,7 @@ Comprehensive AWS management tool with both command-line and graphical interface
 
 ## 📬 Let's Connect!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lirchen.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lir-chen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lirhen2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LirChen)
