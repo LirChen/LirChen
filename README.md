@@ -174,12 +174,12 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 
 <div align="center">
 
+<img src="images/FlavorWorldWebsite-login.png" width="800" alt="Login"/>
 <img src="images/FlavorWorldWebsite-home.png" width="800" alt="Home Feed"/>
-<img src="images/FlavorWorldWebsite-recipe.png" width="800" alt="Recipe Details"/>
 <img src="images/FlavorWorldWebsite-profile.png" width="800" alt="User Profile"/>
+<img src="images/FlavorWorldWebsite-recipe.png" width="800" alt="Recipe Details"/>
 <img src="images/FlavorWorldWebsite-chat.png" width="800" alt="Real-time Chat"/>
 <img src="images/FlavorWorldWebsite-notifications.png" width="800" alt="Notifications"/>
-<img src="images/FlavorWorldWebsite-login.png" width="800" alt="Login"/>
 
 </div>
 
