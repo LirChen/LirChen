@@ -140,36 +140,50 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 
 ---
 
-### 🔹 FlavorWorld - React Native Recipe Social Network
-🎬 **[Live Demo on LinkedIn](https://lnkd.in/p/gd4WFsUQ)** - Modern social network for sharing recipes and building culinary communities
+### 🔹 FlavorWorld - Cross-Platform Recipe Social Network
+🎬 **[Live Demo on LinkedIn](https://lnkd.in/p/gd4WFsUQ)** - Modern social platform for food enthusiasts to share recipes, join cooking communities, and connect with fellow chefs worldwide.
 
-**Key Features:**
-- **React Native Mobile App** with complete social networking capabilities
-- **Microservices Backend** with API Gateway and specialized services (Auth, User, Recipe, Group, Chat)
-- **Real-time Communication** using Socket.IO for private messaging and group chats
-- **Advanced Social Features** - Follow system, groups, likes, comments, and push notifications
-- **MongoDB Database** with optimized schema design for social interactions
-- **Production-Ready Architecture** with file upload handling, JWT authentication, and email services
+**🌐 Two Complete Platforms:**
+- **📱 React Native Mobile App** - Native mobile experience with Expo for iOS & Android
+- **🖥️ React Web Application** - Full-featured responsive web platform with enhanced desktop UI
 
-**Tech Stack:** `React Native` `Node.js` `Express` `Socket.IO` `MongoDB` `JWT` `Expo`
+**🆕 What's New in Web Version:**
+- **Enhanced Desktop Experience** - Glass-morphism design, wider layouts, optimized for large screens
+- **Video Upload Support** - Share cooking videos (up to 60 seconds) alongside images
+- **Advanced Admin Dashboard** - Complete group management with role promotion/demotion
+- **Recipe Sharing in Chats** - Share recipes directly in conversations with rich previews
+- **Comprehensive Notification Center** - Centralized hub for all activity alerts
+- **Optimistic UI Updates** - Instant feedback on likes and interactions without server wait
+- **Professional Security** - Cascade deletion, XSS protection, MongoDB injection prevention
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/Flavor_World_Final_Project)
+**🔥 Core Features (Both Platforms):**
+- **Authentication & Profiles** - JWT auth, password recovery, customizable profiles with avatars
+- **Recipe Management** - Create, edit, delete recipes with images, 16 cuisines, 10 dietary tags
+- **Social Features** - Follow system, likes, comments, personalized feed algorithm
+- **Groups & Communities** - Create public/private groups, admin controls, post approval workflows
+- **Real-time Chat** - Private & group messaging with Socket.IO, typing indicators, read receipts
+- **Smart Notifications** - Real-time alerts for likes, comments, follows, group activities
+- **Search & Discovery** - Find users, recipes, and groups with suggested content algorithm
 
----
+**🏗️ Tech Stack:**
+`React Native` `Expo` `React` `Vite` `Node.js` `Express` `Socket.IO` `MongoDB` `Mongoose` `JWT` `Multer`
 
-### 🔹 Cost Manager - RESTful Web Services
-📽️ **[YouTube Demo](https://www.youtube.com/watch?v=QDyM50J_zkc)** | 🌐 **[Live API](https://final-project-server-side-h0n0.onrender.com)** - Complete expense management system with professional backend architecture
+[![Web Repo](https://img.shields.io/badge/Web_Version-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/FlavorWorldWebsite) [![Mobile Repo](https://img.shields.io/badge/Mobile_Version-View%20Code-0078d4?style=for-the-badge)](https://github.com/LirChen/Flavor_World_Final_Project)
 
-**Key Features:**
-- **RESTful API** with comprehensive CRUD operations and automated testing
-- **MongoDB Atlas** integration with Mongoose ODM and optimized schemas
-- **Computed Pattern** implementation for cached monthly reports
-- **Professional Logging** with Pino and comprehensive test coverage with Jest
-- **Production Deployment** on Render with health monitoring
+**📸 Web Application Screenshots:**
 
-**Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `Jest` `Pino` `Supertest`
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/Node.js_RESTful_API)
+<img src="images/FlavorWorldWebsite-home.png" width="800" alt="Home Feed"/>
+<img src="images/FlavorWorldWebsite-recipe.png" width="800" alt="Recipe Details"/>
+<img src="images/FlavorWorldWebsite-profile.png" width="800" alt="User Profile"/>
+<img src="images/FlavorWorldWebsite-chat.png" width="800" alt="Real-time Chat"/>
+<img src="images/FlavorWorldWebsite-notifications.png" width="800" alt="Notifications"/>
+<img src="images/FlavorWorldWebsite-login.png" width="800" alt="Login"/>
+
+</div>
+
+**👥 Development Team:** [Lir Chen](https://github.com/LirChen) & Moriya Shalom
 
 ---
 
