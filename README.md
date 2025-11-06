@@ -187,23 +187,25 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 
 ---
 
-### 🔹 Full-Stack Authentication App with Event Streaming
-Enterprise-grade authentication system with real-time data processing and monitoring
+### 🔹 Fullstack Authentication App
+Production-ready authentication system with JWT, event streaming, and comprehensive API documentation
 
 ![Authentication Dashboard](./images/auth-dashboard.png)
-*User management dashboard with real-time profile information and system analytics*
+![Authentication Dashboard](./images/auth-dashboard-2.png)
+*Modern dashboard with user management and real-time system analytics*
 
 ![Login Interface](./images/auth-login.png)
-*Clean, modern login interface with secure authentication flow*
+*Secure login interface with JWT authentication and refresh token mechanism*
 
 **Key Features:**
-- **Microservices Architecture** with React frontend, Node.js API, and Kafka consumer
-- **Distributed Database** using TiDB with TiCDC for change data capture
-- **Event-Driven Processing** with Kafka for real-time activity logging
-- **Containerized Deployment** with Docker Compose for scalable orchestration
-- **Advanced Monitoring** with custom logging and database change tracking
+- **JWT Authentication** with access & refresh tokens for secure session management
+- **Production-Ready Security** including bcrypt hashing, rate limiting, and input validation
+- **Distributed Database** using TiDB with real-time change data capture (TiCDC)
+- **Event Streaming** with Kafka for processing user activities and database changes
+- **API Documentation** with interactive Swagger/OpenAPI interface at `/api-docs`
+- **One-Command Deployment** via Docker Compose with 8+ orchestrated services
 
-**Tech Stack:** `React` `Node.js` `TiDB` `Kafka` `TiCDC` `Docker` `log4js`
+**Tech Stack:** `React` `Node.js` `Express` `TiDB` `Kafka` `TiCDC` `Swagger` `Docker` `log4js`
 
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-2ea44f?style=for-the-badge)](https://github.com/LirChen/fullstack_auth_app)
 
