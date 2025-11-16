@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-**DevOps Engineer and Software Developer** with **6 years of leadership experience** in the **Israeli Defense Forces**, combining cloud infrastructure expertise with hands-on full-stack development. **Computer Science B.Sc. graduate** with extensive experience building production-ready systems.
+**DevOps Engineer and Software Developer** with **5 years of command experience** in the **Israeli Defense Forces**, combining cloud infrastructure expertise with hands-on full-stack development. **Computer Science B.Sc. graduate** with extensive experience building production-ready systems.
 
 As a **former IDF officer** with comprehensive **DevOps training** and practical software development experience, I specialize in creating **secure, scalable cloud infrastructures** and building **enterprise-grade applications** using modern technologies including AWS, Kubernetes, Docker, Terraform, and microservices architectures.
 
@@ -253,9 +253,9 @@ Comprehensive AWS management tool with both command-line and graphical interface
 
 ### **🎖️ Military Service**
 - **2023–2025:** Planning Officer (Captain) - Cyber Defense & Communications Directorate, IDF
-- **2021–2023:** HR Officer - Personnel management for soldiers and civilians, IDF  
+- **2021–2023:** HR Officer - Soldiers & Civilian Staff, IDF  
 - **2020–2021:** HR Officer - Reserve Units, IDF
-- **2018–2020:** Non-Commissioned Officer - Service Suitability Committee, IDF
+- **2018–2020:** Committees Soldier, IDF
 
 ### **🎓 Education & Certifications**
 - **B.Sc. Computer Science** - Holon Institute of Technology (HIT), Israel (2022-2025)  
