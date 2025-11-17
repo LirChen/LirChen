@@ -253,7 +253,7 @@ Comprehensive AWS management tool with both command-line and graphical interface
 - **2023–2025:** Planning Officer (Captain) - Cyber Defense & Communications Directorate, IDF
 - **2021–2023:** HR Officer - Soldiers & Civilian Staff, IDF  
 - **2020–2021:** HR Officer - Reserve Units, IDF
-- **2018–2020:** Committees Soldier, IDF
+- **2018–2019:** Committees Soldier, IDF
 
 ### **🎓 Education & Certifications**
 - **B.Sc. Computer Science** - Holon Institute of Technology (HIT), Israel (2022-2025)  
@@ -262,18 +262,6 @@ Comprehensive AWS management tool with both command-line and graphical interface
   - Red Hat Enterprise Linux Automation with Ansible (RH294)  
   - Red Hat System Administration I & II (RH124, RH134)
 - **Information Security Course** - DV PLAN, Israel (2024)
-
----
-
-## 📈 Current Focus
-
-🔧 **DevOps Innovation:** Developing cutting-edge DevOps projects using emerging cloud technologies and automation tools to build robust, scalable infrastructures
-
-🌐 **Full-Stack Web Development:** Creating modern web applications with comprehensive frontend and backend solutions
-
-🚀 **Integrated Architecture:** Combining DevOps practices with full-stack development to build complete infrastructure foundations for the applications I develop - from cloud deployment to user interface
-
-🔒 **Cloud-Native Solutions:** Implementing enterprise-grade security and scalability measures in cloud environments while maintaining development agility
 
 ---
 
