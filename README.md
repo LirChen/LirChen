@@ -261,7 +261,7 @@ Comprehensive AWS management tool with both command-line and graphical interface
   - Red Hat OpenShift Administration I (DO180)
   - Red Hat Enterprise Linux Automation with Ansible (RH294)  
   - Red Hat System Administration I & II (RH124, RH134)
-- **Information Security Course** - DV PLAN, Israel (2024)
+- **Intro to Information & Cyber Security Course** - DV PLAN, Israel (2024)
 
 ---
 
