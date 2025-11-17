@@ -15,8 +15,6 @@ As a **former IDF officer** with comprehensive **DevOps training** and practical
 - 🎖️ **Former:** Planning Officer at IDF Cyber Defense & Communications Directorate (2023-2025)
 - 💻 **Expertise:** AWS, Kubernetes, Docker, Terraform, Linux, React Native, Node.js, Python, DevOps, Microservices
 
-**🎯 Currently seeking:** DevOps Engineer or Software Developer role  
-**🌱 Learning:** Advanced Kubernetes, Terraform, and Cloud Architecture  
 **🌐 Portfolio:** [lirchen.github.io](https://lirchen.github.io)
 
 ---
