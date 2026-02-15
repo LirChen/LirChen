@@ -229,21 +229,7 @@ Comprehensive AWS management tool with both command-line and graphical interface
 
 ## 📊 GitHub Analytics
 
-![Lir's GitHub stats](https://github-readme-stats.vercel.app/api?username=LirChen&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LirChen&layout=compact&theme=tokyonight)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LirChen&theme=tokyo-night)
-
----
-
-## 📌 Pinned Repositories
-
-[![DevOps Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=DevOps_Infrastructure_Project&theme=tokyonight)](https://github.com/LirChen/DevOps_Infrastructure_Project)
-[![FitFlow](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=FitFlow&theme=tokyonight)](https://github.com/LirChen/FitFlow)
-[![FlavorWorld App](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=Flavor_World_Final_Project&theme=tokyonight)](https://github.com/LirChen/Flavor_World_Final_Project)
-[![Cost Manager API](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=Node.js_RESTful_API&theme=tokyonight)](https://github.com/LirChen/Node.js_RESTful_API)
-[![Full-Stack Auth](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=fullstack_auth_app&theme=tokyonight)](https://github.com/LirChen/fullstack_auth_app)
-[![AWS CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=LirChen&repo=AWS_Resource_manager_cli_and_ui&theme=tokyonight)](https://github.com/LirChen/AWS_Resource_manager_cli_and_ui)
 
 ---
 
