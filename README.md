@@ -227,12 +227,6 @@ Comprehensive AWS management tool with both command-line and graphical interface
 
 ---
 
-## 📊 GitHub Analytics
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LirChen&theme=tokyo-night)
-
----
-
 ## 🏅 Leadership Experience & Certifications
 
 ### **🎖️ Military Service**
